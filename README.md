@@ -28,7 +28,11 @@ CumulusUI is a lightweight and modern UI component library built with React and 
    ```bash
    npm install
    ```
-
+   If it fails:
+   ```bash
+   npm install --legacy-peer-deps
+   ```
+   
 ## Usage
 1. Start the development server:
    ```bash
